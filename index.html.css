@@ -1,0 +1,21 @@
+nav{
+    background-color: #fff;
+}
+
+nav a{
+    color: goldenrod;
+    font-size: 1.2em;
+    font-style: timesnew roman;
+}
+header{
+    color:green;
+}
+body{
+    background-image: url('image1.jpg');
+}
+footer{
+    background-color: gray;
+}
+footer a{
+    color: aqua;
+}

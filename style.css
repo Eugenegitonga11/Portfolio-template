@@ -1,0 +1,53 @@
+nav{
+    background-color: purple;
+}
+ul{
+    display: flex;
+}
+ul li{
+    list-style: none;
+    text-align: center;
+    display: block;
+    border-right: 1px solid rgba(0,0,0,0.2);
+}
+ul li a{
+     text-decoration: none;
+     padding: 0,50px;
+     display: block;
+}
+nav a{
+    color: goldenrod;
+    font-size: 1.2em;
+    font-style: timesnew roman;
+    
+}
+nav li{
+    text-decoration: none;
+}
+header{
+    color:paleturquoise;
+}
+body{
+    background-image: url('art.jpg');
+    background-position: center ;
+}
+footer{
+    background-color: gray;
+}
+footer a{
+    color: aqua;
+}
+h2{
+    color: white;
+}
+.icons img{
+    padding: 20px;
+}
+ul li.active a{
+    border: 2px solid grey;
+    background-color: antiquewhite;
+}
+ul li a:hover{
+    border: 2px solid grey;
+    background-color: antiquewhite;
+}
