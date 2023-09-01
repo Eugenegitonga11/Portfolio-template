@@ -1,2 +1,2 @@
 # Portfolio-template
-This are different porfolios formats 
+These are different porfolios formats 
